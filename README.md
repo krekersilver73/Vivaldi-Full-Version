@@ -262,4 +262,4 @@ This repository serves as the official landing page for Vivaldi. The software is
 **Get the most recent version of Vivaldi today!**
 
 ---
-**Last updated:** 2026-09-10 23:30:17 UTC
+**Last updated:** 2026-09-11 01:48:04 UTC
